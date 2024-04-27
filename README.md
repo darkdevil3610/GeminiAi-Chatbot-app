@@ -23,7 +23,7 @@ AndroidGeminiAIChatbot seamlessly incorporates the capabilities of the **Google 
 3. Click the "Send" button to trigger the powerful AI response engine.
 4. Experience dynamic conversations.
 
-  | Apk Download link  | [👆](https://github.com/darkdevil3610/GeminiAiChatbot-app/raw/main/apk/android_gemini_ai_chatbot_app-debug.apk) |
+  | Apk Download link  | [👆Click Here ](https://github.com/darkdevil3610/GeminiAiChatbot-app/raw/main/apk/android_gemini_ai_chatbot_app-debug.apk) |
 
 
 
